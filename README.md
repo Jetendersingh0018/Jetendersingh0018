@@ -99,3 +99,33 @@ Excel          ████████████████████  Adv
 Power BI       ██████████████████░░  Advanced
 Python         ███████████████░░░░░  Intermediate
 Data Analysis  ██████████████████░░  Advanced
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/jetender-singh-0b4944324">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jetendersingh0018">
+  <img src="https://img.shields.io/badge/GitHub-Jetendersingh0018-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🎯 Career Goal
+
+To build a successful career in **Data Analytics** by transforming data into meaningful insights and creating data-driven solutions using **SQL, Excel, Power BI, and Python**.
+
+---
+
+<p align="center">
+
+### 📊 Turning Data Into Insights | 🚀 Building Skills | 💡 Solving Problems
+
+</p>
