@@ -10,9 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%7C+Excel;Power+BI+%7C+Python+%7C+Data+Visualization;Turning+Raw+Data+into+Meaningful+Insights;Analyzing+Data.+Finding+Insights.+Creating+Impact." />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajitshekhawat0018-ai&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
