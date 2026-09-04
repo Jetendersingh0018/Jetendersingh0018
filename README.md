@@ -100,31 +100,3 @@ Power BI       ██████████████████░░  Adv
 Python         ███████████████░░░░░  Intermediate
 Data Analysis  ██████████████████░░  Advanced
 
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jetender-singh-0b4944324">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Jetendersingh0018">
-    <img src="https://img.shields.io/badge/GitHub-Jetendersingh0018-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🎯 Career Goal
-
-To become a skilled **Data Analyst** and use data to solve real-world business problems, uncover meaningful insights, and support better decision-making.
-
----
----
-
-<p align="center">
-
-### 📊 Turning Data Into Insights | 🚀 Building Skills | 💡 Solving Problems
-
-</p>
