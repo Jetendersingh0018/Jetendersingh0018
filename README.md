@@ -94,25 +94,6 @@ I enjoy working with data, finding patterns, building dashboards, and solving re
 
 ---
 
-## 📈 Featured Projects
-
-### 🏥 Healthcare Data Analysis Dashboard
-
-📌 **Tools:** Microsoft Excel | Pivot Tables | Slicers | Charts
-
-- Analyzed patient-related data
-- Created interactive dashboard
-- Used PivotTables and slicers for dynamic analysis
-- Converted raw data into actionable insights
-
----
-
-### 📊 More Projects Coming Soon...
-
-I'm continuously building projects to strengthen my **Data Analytics portfolio**.
-
----
-
 ## 📚 Currently Focused On
 
 ```text
